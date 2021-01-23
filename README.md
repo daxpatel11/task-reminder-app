@@ -4,7 +4,7 @@ To run the app Do the following things in different terminals
 
 git clone my repo
 ```
-npm install 
+npm run build ( one terminal for the dev part)
 npm run server(one terminal for the server part) 
-npm start(2 terminal for the dev part)
+
 ```
